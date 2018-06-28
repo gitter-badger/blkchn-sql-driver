@@ -1,6 +1,8 @@
 Overview
 =========
 
+[![Join the chat at https://gitter.im/Impetus/blkchn-sql-driver](https://badges.gitter.im/Impetus/blkchn-sql-driver.svg)](https://gitter.im/Impetus/blkchn-sql-driver?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 blkchn-sql-driver project parses the SQL query using [Antlr4](http://www.antlr.org/) and converts it into logical plan 
 and/or optimized physical plan, which can be used by different blockchain driver implementations.
 It uses Antlr4's visitor pattern to create a logical plan and optionally an optimized physical plan. 
@@ -21,18 +23,18 @@ To rebuild antlr generated java source files:
 Available Drivers
 =================
 
-* [Hyperledger Fabric JDBC Driver](http://git-impetus/RND-LABS/fabric-jdbc-connector)
+* [Hyperledger Fabric JDBC Driver](https://github.com/Impetus/fabric-jdbc-connector)
 
-* [Ethereum JDBC Driver](http://git-impetus/RND-LABS/eth-jdbc-connector)
+* [Ethereum JDBC Driver](https://github.com/Impetus/eth-jdbc-connector)
     
 Important Links
 ===============
 
-* [Blkchn SQL Driver wikis](http://git-impetus/RND-LABS/blkchn-sql-driver/wikis/home)
+* [Blkchn SQL Driver wikis](https://github.com/Impetus/blkchn-sql-driver/wiki)
 
 Contribution
 ============
-* [Contribution Guidelines](http://git-impetus/RND-LABS/blkchn-sql-driver/blob/master/CONTRIBUTING.md)
+* [Contribution Guidelines](https://github.com/Impetus/blkchn-sql-driver/blob/master/CONTRIBUTING.md)
 
 About Us
 ========
